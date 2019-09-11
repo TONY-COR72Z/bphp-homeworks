@@ -14,5 +14,5 @@
     $date_second = (explode('-', $date));
     echo '<br>' . substr($date, 3, 2) . '.' . substr($date, 0, 2) . '.' . substr($date, 6);
     echo "<br> ${date_second[1]}.${date_second[0]}.${date_second[2]}";
-    $sum = '10536000';
+    $sum = '10536000123';
     echo '<br>' . number_format($sum, 0, '', ' ') . ' руб.';
