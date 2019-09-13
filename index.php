@@ -30,7 +30,19 @@
             </ul>
         </li>
         <br>
+        <li>Блок 3. Массивы и циклы
+            <ul>
+                <li>Занятие 1.3.
+                    <ul>
+                        <li><a href="1.3-arrays-and-functions/1-places">Задание 1.3.1</a></li>
+                        <li><a href="1.3-arrays-and-functions/2-search">Задание 1.3.2</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <br>
         
+        <br>
     </ul>
 </body>
 </html>
