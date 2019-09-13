@@ -41,8 +41,60 @@
             </ul>
         </li>
         <br>
-        
+        <li>Блок 4. Файлы
+            <ul>
+                <li>Занятие 2.1. 
+                    <ul>
+                        <li><a href="2.1-files/2.1.1">Задание 2.1.1</a></li>
+                        <li><a href="2.1-files/2.1.2">Задание 2.1.2</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
         <br>
+        <li>Блок 5. Введение в ООП
+            <ul>
+                <li>Занятие 2.2. 
+                    <ul>
+                        <li><a href="2.2-OOP/2.2.1">Задание 2.2.1</a></li>
+                        <li><a href="2.2-OOP/2.2.2">Задание 2.2.2</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <br>
+        <li>Блок 6. Даты. Сессии
+            <ul>
+                <li>Занятие 2.3. 
+                    <ul>
+                        <li><a href="2.3-dates-and-sessions/2.3.1-your-tube">Задание 2.3.1</a></li>
+                        <li><a href="2.3-dates-and-sessions/2.3.2-brute-protection">Задание 2.3.2</a></li>
+                        <li><a href="2.3-dates-and-sessions/2.3.3-additional">Задание 2.3.3</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <br>
+        <li>Блок 7. Работа с исключениями. Заголовки
+            <ul>
+                <li>Занятие 3.1. 
+                    <ul>
+                        <li><a href="3.1-exceptions-and-headers/3.1.1-router">Задание 3.3.1</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <br>
+        <li>Блок 8. PHP7. PSR-*. PHPDOC
+            <ul>
+                <li>Занятие 3.2. 
+                    <ul>
+                        <li><a href="3.2-PHP7-PSR-PHPDoc/3.2.1">Задание 3.2.1</a></li>
+                        <li><a href="3.2-PHP7-PSR-PHPDoc/3.2.2">Задание 3.2.2</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
     </ul>
 </body>
 </html>
